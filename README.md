@@ -50,4 +50,56 @@ https://eprint.iacr.org/2020/711.pdf
 --John Cartlidge and Nigel P. Smart and Younes Talibi Alaoui
 https://eprint.iacr.org/2020/662.pdf
 
+13、Mixed-Technique Multi-Party Computations Composed of Two-Party Computations
+--Erik-Oliver Blass and Florian Kerschbaum
+https://eprint.iacr.org/2020/636.pdf
+
+14、MP-SPDZ: A Versatile Framework for Multi-Party Computation
+--Marcel Keller
+https://eprint.iacr.org/2020/521.pdf
+
+15、Secure Multiparty Computation (MPC)
+--Yehuda Lindell
+https://eprint.iacr.org/2020/300.pdf
+
+16、A Note on Secure Multiparty Computation via Higher Residue Symbol Techniques
+--Ignacio Cascudo and Reto Schnyder
+https://eprint.iacr.org/2020/183.pdf
+
+17、Constructing Secure Multi-Party Computation with Identifiable Abort
+--Nicholas-Philip Brandt and Sven Maier and Tobias Müller and Jörn Müller-Quade
+https://eprint.iacr.org/2020/153.pdf
+
+18、Beyond Honest Majority: The Round Complexity of Fair and Robust Multi-party Computation
+--Arpita Patra and Divya Ravi
+https://eprint.iacr.org/2019/998.pdf
+
+19、Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation: An Application to Hate-Speech Detection
+--Devin Reich and Ariel Todoki and Rafael Dowsley and Martine De Cock and Anderson C. A. Nascimento
+https://eprint.iacr.org/2019/744.pdf
+
+20、Improved Building Blocks for Secure Multi-Party Computation based on Secret Sharing with Honest Majority
+--Marina Blanton and Ahreum Kang and Chen Yuan
+https://eprint.iacr.org/2019/718.pdf
+
+21、Round Optimal Secure Multiparty Computation from Minimal Assumptions
+--Arka Rai Choudhuri and Michele Ciampi and Vipul Goyal and Abhishek Jain and Rafail Ostrovsky
+https://eprint.iacr.org/2019/216.pdf
+
+22、LucidiTEE: A TEE-Blockchain System for Policy-Compliant Multiparty Computation with Fairness
+--Rohit Sinha and Sivanarayana Gaddam and Ranjit Kumaresan
+https://eprint.iacr.org/2019/178.pdf
+
+23、A Note on the Communication Complexity of Multiparty Computation in the Correlated Randomness Model
+--Geoffroy Couteau
+https://eprint.iacr.org/2018/465.pdf
+
+24、TinyKeys: A New Approach to Efficient Multi-Party Computation
+--Carmit Hazay and Emmanuela Orsini and Peter Scholl and Eduardo Soria-Vazquez
+https://eprint.iacr.org/2018/208.pdf
+
+25、Information-Theoretic 2-Round MPC without Round Collapsing: Adaptive Security, and More
+--Huijia Lin and Tianren Liu and Hoeteck Wee
+https://eprint.iacr.org/2020/1431.pdf
+
 
